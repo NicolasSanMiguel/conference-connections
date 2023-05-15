@@ -3,7 +3,7 @@ graphs all connections between authors at a conference
 
 
 ## Description
-      This takes in the Insitute of Navigation (ION) program .pdf 
+This takes in the Insitute of Navigation (ION) program .pdf 
 file for a given conference, parses through each presentation and
 separates each presentation by title, author, and affiliation. Then, 
 each pair of authors/organizations, are added to a graph as 
@@ -23,7 +23,7 @@ How to run:
 ![Demo1](pics/PLANS_graphs.png)
 
 #### Stanford folks
-!(pics/PLANS_graphs_SU.png)
+![Demo1](pics/PLANS_graphs_SU.png)
 
 ### GNSS+23 program graphs
 #### Overall
