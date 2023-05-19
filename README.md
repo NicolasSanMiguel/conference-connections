@@ -28,6 +28,8 @@ How to run:
 ### GNSS+23 program graphs
 #### Overall
 ![Demo1](pics/GNSS23_graphs.png)
+
+#### Stanford folks
 ![Demo1](pics/GNSS23_SU.png)
 
 
